@@ -93,6 +93,9 @@
 .main-container .search-container .search::placeholder {
   color: #9f9a9a;
   font-size: 20px;
+  background: url("../image/Vector.png") no-repeat;
+  background-position: 99%;
+  background-size: 25px;
 }
 .main-container .search-container .secondary-text {
   width: 80%;
@@ -113,11 +116,6 @@
 .main-container .search-container .img-seta {
   height: 10px;
   margin-top: 50px;
-}
-.main-container .search-container .lupa {
-  position: absolute;
-  top: 388px;
-  right: 130px;
 }
 
 .header {
